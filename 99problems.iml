@@ -24,6 +24,17 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+          <root url="jar:///Users/aaseek/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.9.8/11283f21cc480aa86c4df7a0a3243ec508372ed2/jackson-databind-2.9.8.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/aaseek/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.9.8/f66792d499a6fea6c7a743558f940e0ebf775ce3/jackson-databind-2.9.8-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
           <root url="jar:///Users/aaseek/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.1.2.RELEASE/5f90ffc7937a051b38fb8322289e3d92831829bf/spring-boot-autoconfigure-2.1.2.RELEASE.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -115,6 +126,28 @@
         <JAVADOC/>
         <SOURCES>
           <root url="jar:///Users/aaseek/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.1.4.RELEASE/8be9ed31f0ad503c96cdbd3063ae4a6f418239c/spring-core-5.1.4.RELEASE-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/aaseek/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.9.0/7c10d545325e3a6e72e06381afe469fd40eb701/jackson-annotations-2.9.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/aaseek/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.9.0/a0ad4e203304ccab7e01266fa814115850edb8a9/jackson-annotations-2.9.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/aaseek/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.9.8/f5a654e4675769c716e5b387830d19b501ca191/jackson-core-2.9.8.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/aaseek/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.9.8/ecaea301e166a0b48f11615864246de739b6619b/jackson-core-2.9.8-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
